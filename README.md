@@ -16,7 +16,7 @@ In this project, I worked with a dataset simulating real-world product listings 
 
 The entire analysis was conducted using **SQL** (PostgreSQL syntax), focused on delivering insights that are valuable for **business decision-making** in e-commerce.
 
----
+--- 
 
 ## 🧾 Table Schema 
  
