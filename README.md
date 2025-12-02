@@ -9,7 +9,7 @@
 ## 📦 Project Overview
 
 In this project, I worked with a dataset simulating real-world product listings from Zepto, including:
-- Product pricing
+- Product pricing  
 - Discount percentages
 - Stock availability 
 - Weight and quantity   
