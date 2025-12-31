@@ -11,7 +11,7 @@
 In this project, I worked with a dataset simulating real-world product listings from Zepto, including:
 - Product pricing  
 - Discount percentages
-- Stock availability     
+- Stock availability       
 - Weight and quantity         
 
 The entire analysis was conducted using **SQL** (PostgreSQL syntax), focused on delivering insights that are valuable for **business decision-making** in e-commerce.
