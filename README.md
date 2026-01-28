@@ -13,7 +13,7 @@ In this project, I worked with a dataset simulating real-world product listings 
 - Discount percentages
 - Stock availability            
 - Weight and quantity           
-
+  
 The entire analysis was conducted using **SQL** (PostgreSQL syntax), focused on delivering insights that are valuable for **business decision-making** in e-commerce.
   
 ---       
