@@ -22,7 +22,7 @@ The entire analysis was conducted using **SQL** (PostgreSQL syntax), focused on 
   
 🧼 Data Cleaning & Preparation 
 Checked for null values across all columns 
- 
+  
 Removed invalid rows where mrp = 0
 
 Converted mrp and discounted_selling_price from paise to rupees
