@@ -3,7 +3,7 @@
 > 🔍 This project explores product-level data from **Zepto**, one of India's fastest-growing instant delivery platforms. The goal was to analyze discounts, stock availability, pricing strategies, and inventory categories using advanced **SQL queries**.
 
 
-
+   
 ---
 
 ## 📦 Project Overview
