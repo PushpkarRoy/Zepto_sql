@@ -19,7 +19,7 @@ The entire analysis was conducted using **SQL** (PostgreSQL syntax), focused on 
 ---             
         
 ## 🧾 Table Schema        
-  
+    
 🧼 Data Cleaning & Preparation       
 Checked for null values across all columns       
   
