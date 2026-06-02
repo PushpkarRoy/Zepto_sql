@@ -37,7 +37,7 @@ SET mrp = mrp / 100.0,
 1️⃣ Top Products by Discount %
 Identify the most heavily discounted products
 
-SELECT name, mrp, ROUND(AVG(discount_percent), 0) AS discount_percent
+SELECT name, mrp, ROUND(AVG(discount_percent), 0) AS discount_percent  
 FROM zepto
 GROUP BY name, mrp
 ORDER BY discount_percent DESC
